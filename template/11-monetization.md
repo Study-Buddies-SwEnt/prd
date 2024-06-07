@@ -1,15 +1,15 @@
 # Business Model
 
-*Expected operating Costs*
+## Expected Operating Costs
 
-We are expecting some expenses for the development of new features, the maintenance of the app (external services and hosting) and the marketing in order to promote our app. Some examples are listed below :
-- Database operation, storage of data
+We are expecting some expenses for the development of new features, the maintenance of the app (external services and hosting) and marketing in order to promote our app. Some examples are listed below :
+- Database operation, data storage
 - Video call API
 - Google Maps API
 - Salary : Developers, Designers, Marketing, Sales, Customer Support
 - Marketing : Ads, Social Media, flyers, ...
 
-*Revenue Streams*
+## Revenue Stream
 In order to generate revenue, we are planning to have a freemium model, where the app is free to use but some features are locked and can be unlocked by paying a subscription fee.
 The free version will be used to attract users and make them discover our app and the premium version will offer more features and less limitations.
 
