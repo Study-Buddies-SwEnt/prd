@@ -10,8 +10,8 @@ The application uses the following key components:
 - SonarCloud : used to analyse test coverage, code complexity and other code-specific metrics
 - Firebase : console used for Google authentication and database storage
 
-The application's main screens can be separated into social, online features and solo features can be accessed even offline.
-In the online features, we will notably a home screen from which all the groups that the user is subscribed to can be accessed. Within each group, the user can access a general chat with the other group members, a list of topics created by the group, a group video call feature, a shared timer to study together and a shared calendar. Within each topic, the users can customize folder and files that constitute a pool of shared resources and an easy way to help each other.
+The application's main screens can be separated into social, online features and solo features,which can be accessed even offline.
+In the online features, we notably have a home screen from which all the groups that the user is subscribed to can be accessed. Within each group, the user can access a general chat with the other group members, a list of topics created by the group, a group video call feature, a shared timer to study together and a shared calendar. Within each topic, the users can customize folders and files that constitute a pool of shared resources and an easy way to help each other.
 There are also other online features: direct messages with any other friend to privately chat, and a map to view the locations of the user's friends.
 For offline features, the user has access to a Todo list that they can use to keep track of their tasks, customizable flashcards, a private timer and a calendar.
 All the user's data is locked behind a Google-authentication login, and they can at anytime modify, switch or delete their account.
