@@ -18,10 +18,10 @@ Moreover, there is a plan to develop a version of the app for Apple users. Expan
 
 1. Backbone of the app, utility functions (3 weeks)
 2. Integration of key features (6 weeks)
-3. Internal and UX/UI testing and refining of existing features(4 weeks)
+3. Internal and UX/UI testing and refining of existing features (4 weeks)
 4. Preparations and alpha roll-out (3 weeks)
 
-*List identified sprints*
+## Identified sprints
 
 1. Setting up basic applications needed (SCRUM board, Github, SonarCloud, FireBase etc)
 2. Start basic implementation of MainActivity with login, set up navigation and database objects
