@@ -52,7 +52,7 @@ We need to implement privacy features for the following captors of our app :
 - location
 Protocols must be put in place in order to ensure privacy and protection of the users when those features are in use. 
 
-    ## Adoptions, Scalability and Availability
+## Adoptions, Scalability and Availability
 
 **Adoption** The app must have different customization options to allow the user to adjust his experience on the app. For example, the user should have the possibility to disable notifications and pop ups to remove digital distraction.
 

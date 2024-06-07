@@ -30,5 +30,5 @@ The key features of the MVP consist of those listed below :
 ## Features Outside the Scope
 
 **User profile cards** : Not very useful. There won't be any 'new encounters' in the groups since they are representations of friend groups, hence everyone already knows everyone. Could be a nice addition to see for example the common groups between the user and their friends for a later version of the MVP.
-**Dating app** : The goal of the app isn't to meet new people. It is to improve and allow better collaboration among existing friend groups. 
+**Dating app** : The goal of the app isn't to meet new people. It is to improve and allow better collaboration among existing friend groups.
 **Ability to refer friends** : Not that important for the MVP but could be a good marketing scheme. Allow existing users to invite new users for a small benefit (such as ability to send emojis in video calls for example).
