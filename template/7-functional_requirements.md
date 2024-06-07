@@ -9,5 +9,5 @@ The objective is to develop an all-in-one app that enhances studying through ela
  6. **Calendar**: The calendar helps users keep track of deadlines, events, and manage daily planners. Users can add events at any time, including a title, date, and description.
  7. **To-Do List**: Users can add tasks to track their progress easily. Each task can be unmarked or marked as "In Progress," or "Completed." These tasks can have a title and a description and a due date.
 
-**Architectural Diagram**:
+**Architecture Diagram**:
 ![Architecture Diagram](architecture_diagram.png)
