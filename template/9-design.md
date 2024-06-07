@@ -21,7 +21,7 @@ All the user's data is locked behind a Google-authentication login, and they can
 The application is composed of the following functional blocks:
 - **User login activity** : Users are managed through a Google-based authentication, and additional account information is stored such as a username, profile picture, ...
 - **Groups** : Users can create, modify and delete groups. Each group member has the possibility to modify their groups' settings. New members can be directly added to the group, or an invite link can be generated that allows anyone to join the group.
-- **Chat** : Be it groupchats or direct messages, users can send - in realtime - messages, images, pdf files, links, ... Text messages can also be modified and deleted.
+- **Chat** : Be it group chats or direct messages, users can send - in realtime - messages, images, pdf files, links, ... Text messages can also be modified and deleted.
 - **Video call** : There are video call lobbies present in each group, that all members can join to share and study together, complete with a call lobby. The camera and microphone can be independently turned on and off at any time.
 - **Topics** : Within each group, members can create topics. In each topic, they can customize their own hierarchies of files, separated into "Practice" and "Theory" tabs. For each file, the users can share resources such as images, pdf files and links. Each file also has a list of "strong users" that the group members can refer to, to ask for help.
 - **Timers** : There is a solo timer feature that can be used offline, and a shared timer specific to each group that members can use to plan out study sessions together.
@@ -67,7 +67,7 @@ In general, other users data can only be read but not changed, and groups-relate
 
 ## Infrastructure and Deployment
 
-The application is developped on AndroidStudio and written using the Jetpack Compose framework in Kotlin. The app is also deployed and user-tested on Android phones through USB debugging, or via an emulator if no physical Android phone is available.
+The application is developed on AndroidStudio and written using the Jetpack Compose framework in Kotlin. The app is also deployed and user-tested on Android phones through USB debugging, or via an emulator if no physical Android phone is available.
 
 ## Test Plan
 
