@@ -10,4 +10,4 @@ The objective is to develop an all-in-one app that enhances studying through ela
  7. **To-Do List**: Users can add tasks to track their progress easily. Each task can be unmarked or marked as "In Progress," or "Completed." These tasks can have a title and a description and a due date.
 
 **Architectural Diagram**:
-![Architectural Diagram](architectural_diagram.png)
+![Architecture Diagram](architecture_diagram.png)
