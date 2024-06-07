@@ -11,18 +11,18 @@ We have :
 - the possibility to add friends
 - the map to see where our friends are located
 
-During the POC, we learned some valuable lessons that give us some insights for the future development phases, as the importance of:
-- Well understanding and identify the user needs, experience and interaction of our app. We need to make sure that the app is user-friendly and easy to use, but also to identify the features that are the most important for the users and prioritize them.
-- The design of the app. We need to make sure that the app is visually appealing and that the design is consistent throughout the app.
+During the POC, we learned some valuable lessons that gave us some insights for future development phases, such as the importance of:
+- Well understanding and identifying the user needs, experience and interaction with our app. We need to make sure that the app is user-friendly and easy to use, as well as identify the features that are most important for the users so we can prioritize them.
+- The design of the app. We need to make sure that the app is visually appealing and that the design is consistent throughout.
 - The performance, as we need to make sure that the app is fast and responsive, and that it doesn't crash or freeze.
-- The security of the app. In order to make sure that the app is secure and that the user's data is protected.
+- The security of the app, to make sure that the user's data is protected.
 - Scalability, to ensure that the app can handle a large number of users and that it can grow.
 
 Even if our POC is quite complete, there are still some features that we would like to add in order to bridge from PoC to MVP:
-- Add more personalization/customization features, like reorder the element, hide the ones not wanted, ...
-- Merge the timer into the video call, so that the timer is visible to all participants
-- Some automation of channels/exercises creation
-- Add notification when a new message is received, when a friend is closed to our location to meet together
+- Add more personalization/customization features, like elements re-ordering, hiding some unwanted elements, ...
+- Merge the timer into the video call, so that the timer is visible to all participants.
+- Some automation of channels/topics creation.
+- Add a notification when a new message is received, when a friend is closed to our location to meet together, ...
 - Shared calendar
 - Flashcards
-- Lock of the screen to prevent distraction during study sessions
+- Screen-lock to prevent distractions during study sessions.
