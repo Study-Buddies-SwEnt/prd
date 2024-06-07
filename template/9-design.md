@@ -71,4 +71,4 @@ The application is developped on AndroidStudio and written using the Jetpack Com
 
 ## Test Plan
 
-The application is tested both manually through emulation, and automatically in Android tests through the use of compose screens and test tags.
+The application is tested both manually through emulation, and automatically with Unit tests and in Android tests through the use of compose screens and test tags.
