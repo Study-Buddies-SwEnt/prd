@@ -1,14 +1,11 @@
 # Timeline/Resource Planning
 
-*What’s the overall schedule you’re working towards?*
-
 The overall schedule the team is working towards is designed to span roughly 16 weeks, similar to the schedule used for the SwEnt course. This time will be used to fully complete the app. Ensuring the app is free of bugs is crucial for a smooth user experience and successful launch.
 
-Once the development phase is complete, the team plans to spend an additional 1-2 months focusing on finding investors and securing funding. This is a critical step to support further development, marketing, and scaling the app.
+Once the development phase is complete, the team plans to spend an additional 1-2 months focusing on finding investors and securing funding. This is a critical step to support further development, marketing, and scaling of the app.
 
-In addition to bug fixing and securing funds, the team recognizes the importance of creating events to popularize the app. These events are essential for raising awareness, attracting users, and building a strong user base. By hosting events, they aim to showcase the app's features, gather feedback, and generate excitement in the community.
+In addition to bug-fixing and securing funds, the team recognizes the importance of creating events to popularize the app. These events are essential for raising awareness, attracting users, and building a strong user base. By hosting events, we aim to showcase the app's features, gather feedback, and generate excitement in the community.
 
-*What resources are required?*
 
 The main resources required for this project include several key areas of investment. Firstly, there are costs associated with maintaining the database, ensuring it remains operational and efficient. This involves regular expenses for server maintenance, security updates, and data backups. Additionally, as the user base grows, there may be a need to purchase more storage space to handle increased usage.
 
@@ -17,7 +14,7 @@ Beyond these technical requirements, financial resources are also needed to laun
 Moreover, there is a plan to develop a version of the app for Apple users. Expanding the app's compatibility to include iOS devices will require additional development resources and testing to ensure a smooth user experience on this platform.
 
 
-*What are the intermediate milestones?*
+##Intermediate Milestones##
 
 1. Backbone of the app, utility functions (3 weeks)
 2. Integration of key features (6 weeks)
