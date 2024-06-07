@@ -1,6 +1,5 @@
 # Appendix
 
-*This section is optional.*
-
-*Can include mockups, sequence diagrams, etc.*
+**Architecture Diagram**:
+![Architecture Diagram](architecture_diagram.png)
 
