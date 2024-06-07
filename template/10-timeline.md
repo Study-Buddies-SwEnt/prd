@@ -14,7 +14,7 @@ Beyond these technical requirements, financial resources are also needed to laun
 Moreover, there is a plan to develop a version of the app for Apple users. Expanding the app's compatibility to include iOS devices will require additional development resources and testing to ensure a smooth user experience on this platform.
 
 
-##Intermediate Milestones
+## Intermediate Milestones
 
 1. Backbone of the app, utility functions (3 weeks)
 2. Integration of key features (6 weeks)
