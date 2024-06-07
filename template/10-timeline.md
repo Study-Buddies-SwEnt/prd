@@ -24,14 +24,14 @@ Moreover, there is a plan to develop a version of the app for Apple users. Expan
 ## Identified sprints
 
 1. Setting up basic applications needed (SCRUM board, Github, SonarCloud, FireBase etc)
-2. Start basic implementation of MainActivity with login, set up navigation and database objects
-3. Implementation of user-related functionalities like account creation, profile creation etc
+2. Starting basic implementation of MainActivity with login, setting up navigation and database objects
+3. Implementation of user-related functionalities such as account creation, profile creation, etc ...
 
 4. Implementation of solo study features (calendar, ToDo list, timer, flashcard)
 5. Implementation of groups and topics as well as their management (add, delete, modify)
 6. Implementation of chats (private chats, group and topic chats)
-7. Implementation  of video call feature
-8. Implementation of resource sharing (files, pictures etc)
+7. Implementation of video call feature
+8. Implementation of resource sharing (files, pictures, etc ...)
 9. Implementation of remaining features (flashcards, map)
 
 10. UX/UI testing
